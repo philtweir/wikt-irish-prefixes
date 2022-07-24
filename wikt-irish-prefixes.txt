@@ -306,5 +306,8 @@ croí
 lámh
 teang
 sráid
+tráth
+céad
 leith
 rí
+gear

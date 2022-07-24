@@ -1,3 +1,14 @@
+ga-countries-*
+============
+
+These are derived from a list of words on www.dfa.ie - not on the basis
+that creative work was conducted by DFA to formulate it, but that it
+allows us to treat these as putatively official translations. More
+accurately, it allows us to rule out missing forms as "unofficial".
+
+FILES WIKT-*
+============
+
 As this is directly derived from Wiktionary, the content
 of wikt-irish-prefixes.json and wikt-irish-prefixes.txt
 is dual licensed under the GNU Free Documentation License, GFDL 1.1
